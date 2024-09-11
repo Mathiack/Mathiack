@@ -5,7 +5,6 @@
 - TDS-2023 ---> Técnico em Desenvolvimento de Sistemas
 - RSTI-2024 ---> Rio Grande do Sul Tecnologia da Informação
 - Aprendendo JavaScript
-- PHP, HTML, CSS e Java
   
 <p align="center">
   <img src="https://profile-counter.glitch.me/{Mathiack}/count.svg" alt="Mathiack :: Visitor's Count" />
