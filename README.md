@@ -8,7 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathiack&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiack&layout=compact&langs_count=16&theme=dark" />
   <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mathiack&theme=dark&hide_border=false" alt="Github Stats"/>-->
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathiack&theme=dark" alt="Github Stats Graph"/>
   <!--<img src="https://img.shields.io/badge/JavaScript-ET7E6C?style=for-the-badge&logo=javascript&logoColor=white">-->
   <br>
   <img src="https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white">
