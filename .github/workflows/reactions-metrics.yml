@@ -1,22 +1,26 @@
+# Leia a documentação completa: https://github.com/lowlighter/metrics/blob/master/action.yml
 name: Reactions
 on:
-  # Schedule updates (At minute 0 past every 12th hour)
+  # Atualiza a cada 12 horas
   schedule: [{ cron: "0 */12 * * *" }]
-  # Lines below let you run workflow manually with each commit
+  # Permite execução manual
   workflow_dispatch:
-  push: { branches: ["master","main", "metrics"] }
+  # Executa em push nas branches especificadas
+  push: { branches: ["main", "metrics"] }
+
 jobs:
-  # https://github.com/lowlighter/metrics/blob/master/source/plugins/reactions/README.md
   reaction-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write  # Permissões necessárias para gravar os arquivos no repositório
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: assets/metrics.plugin.reactions.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_reactions: yes
-          plugin_reactions_limit: 300
-          plugin_reactions_details: percentage
+          filename: assets/metrics.plugin.reactions.svg  # Arquivo de saída gerado
+          token: ${{ secrets.METRICS_TOKEN }}  # Token do GitHub
+          base: ""  # Layout básico, pode ser ajustado
+
+          # Configurações do plugin de Reações
+          plugin_reactions: yes  # Ativa o plugin de reações
+          plugin_reactions_limit: 300  # Limita a 300 reações
+          plugin_reactions_details: percentage  # Exibe os detalhes em porcentagem

@@ -1,22 +1,26 @@
+# Leia a documentação completa: https://github.com/lowlighter/metrics/blob/master/action.yml
 name: Leetcode
 on:
-  # Schedule updates (At minute 0 past every 12th hour)
+  # Atualiza a cada 12 horas
   schedule: [{ cron: "0 */12 * * *" }]
-  # Lines below let you run workflow manually with each commit
+  # Permite execução manual
   workflow_dispatch:
-  push: { branches: ["master","main", "metrics"] }
+  # Executa em push nas branches especificadas
+  push: { branches: ["main", "metrics"] }
+
 jobs:
-  # https://github.com/lowlighter/metrics/blob/master/source/plugins/leetcode/README.md
   leetcode-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: assets/metrics.plugin.leetcode.svg
-          token: NOT_NEEDED
-          base: ""
+          filename: assets/metrics.plugin.leetcode.svg # Arquivo de saída gerado
+          token: NOT_NEEDED # O token não é necessário para o LeetCode, pois não requer autenticação
+          base: "" # Layout básico, pode ser ajustado
+
+          # Configurações do plugin de LeetCode
           plugin_leetcode: yes
-          plugin_leetcode_user: anmol4coder
-          plugin_leetcode_sections: solved, skills, recent
-          plugin_leetcode_limit_recent: 5
-          plugin_leetcode_limit_skills: 7
+          plugin_leetcode_user: anmol4coder # Usuário do LeetCode (ajuste conforme necessário)
+          plugin_leetcode_sections: solved, skills, recent # Seções a serem incluídas
+          plugin_leetcode_limit_recent: 5 # Limite de 5 questões recentes
+          plugin_leetcode_limit_skills: 7 # Limite de 7 habilidades
