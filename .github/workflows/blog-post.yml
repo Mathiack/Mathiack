@@ -2,8 +2,9 @@ name: Latest blog posts workflow
 on: 
   # Schedule updates (At 23hrs every 2 days)
   schedule: [{ cron: "0 23 */2 * *" }]
-  # Lines below let you run workflow manually with each commit
+  # Allows manual triggering of the workflow
   workflow_dispatch:
+  # Executes on push to the specified branches
   push: { branches: ["master", "main", "blog-workflow"] }
 
 jobs: 
@@ -15,6 +16,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with: 
           max_post_count: "6"
-          feed_list: "https://dev.to/feed/Mathiack" 
+          feed_list: "https://dev.to/feed/Mathiack"  # Your dev.to feed
           commit_message: "docs: update latest blog posts"
           committer_username: "blog-buddy"

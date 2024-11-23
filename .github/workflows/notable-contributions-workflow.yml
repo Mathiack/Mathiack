@@ -1,27 +1,24 @@
-# Leia a documentação completa: https://github.com/lowlighter/metrics/blob/master/action.yml
 name: Notable Contributions
 on:
-  # Atualiza a cada 12 horas
-  schedule: [{ cron: "0 */12 * * *" }]
-  # Permite execução manual
-  workflow_dispatch:
-  # Executa em push nas branches especificadas
-  push: { branches: ["main", "metrics"] }
+  schedule: [{ cron: "0 */12 * * *" }]  # Executa a cada 12 horas
+  workflow_dispatch:  # Permite execução manual
+  push: { branches: ["main", "metrics"] }  # Executa em push nas branches especificadas
 
 jobs:
   notable-contributions-metrics:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Executa em um ambiente Ubuntu
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest  # Usa o plugin lowlighter/metrics para gerar as métricas
         with:
-          filename: assets/metrics.plugin.notable.contributions.svg # Arquivo de saída gerado
-          token: ${{ secrets.METRICS_TOKEN }} # Token do GitHub
-          base: "" # Layout básico, pode ser ajustado
+          filename: assets/metrics.plugin.notable.contributions.svg  # Arquivo gerado
+          token: ${{ secrets.METRICS_TOKEN }}  # Token necessário para autenticação
+          base: ""  # Layout básico (pode ser ajustado)
+          user: Mathiack  # Coloque o nome do usuário aqui
 
-          # Configurações do plugin de Contribuições Notáveis
-          plugin_notable: yes
-          plugin_notable_indepth: yes # Exibe detalhes mais profundos
-          plugin_notable_repositories: yes # Inclui repositórios
-          plugin_notable_from: all # Contribuições de qualquer repositório
-          plugin_notable_types: commit, pull_request # Tipos de contribuições
-          plugin_notable_filter: stars:>=500 # Filtro para repositórios com mais de 500 estrelas
+          # Configurações específicas para o plugin de Contribuições Notáveis
+          plugin_notable: yes  # Ativa o plugin de Contribuições Notáveis
+          plugin_notable_indepth: yes  # Exibe detalhes mais profundos sobre as contribuições
+          plugin_notable_repositories: yes  # Inclui repositórios nas contribuições
+          plugin_notable_from: all  # Inclui contribuições de qualquer repositório
+          plugin_notable_types: commit, pull_request  # Considera contribuições de commits e pull requests
+          plugin_notable_filter: stars:>=500  # Filtra apenas repositórios com 500 ou mais estrelas

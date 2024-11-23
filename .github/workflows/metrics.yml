@@ -1,26 +1,26 @@
 name: General Metrics
 on:
-  schedule: [{ cron: "0 */12 * * *" }] # Executa a cada 12 horas
-  workflow_dispatch: # Permite execução manual
+  schedule: [{ cron: "0 */12 * * *" }]  # Executa a cada 12 horas
+  workflow_dispatch:  # Permite execução manual
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Utiliza a última versão do Ubuntu para executar a job
     steps:
       - name: Checkout repository content
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3  # Faz o checkout do repositório
 
       - name: Setup Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@latest  # Ação de geração das métricas
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: assets/metrics.svg
-          user: Mathiack
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/Sao_Paulo
-          plugin_languages: yes
-          plugin_languages_sections: breakdown
-          plugin_languages_indepth: yes
-          plugin_stars: yes
-          plugin_topics: yes
+          token: ${{ secrets.METRICS_TOKEN }}  # Usa o token secreto para autenticação (não será necessário para algumas métricas)
+          filename: assets/metrics.svg  # Nome do arquivo de saída gerado
+          user: Mathiack  # Seu nome de usuário no GitHub
+          template: classic  # Modelo do gráfico
+          base: header, activity, community, repositories, metadata  # Seções base para o layout do gráfico
+          config_timezone: America/Sao_Paulo  # Define o fuso horário para São Paulo
+          plugin_languages: yes  # Ativa o plugin de linguagens
+          plugin_languages_sections: breakdown  # Exibe a quebra de uso das linguagens
+          plugin_languages_indepth: yes  # Exibe análise detalhada das linguagens
+          plugin_stars: yes  # Exibe a quantidade de estrelas nos repositórios
+          plugin_topics: yes  # Exibe os tópicos relacionados aos repositórios

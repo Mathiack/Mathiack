@@ -1,4 +1,3 @@
-# Leia a documentação completa: https://github.com/lowlighter/metrics/blob/master/action.yml
 name: Languages Activity
 on:
   # Atualiza a cada 12 horas
@@ -12,19 +11,21 @@ jobs:
   language-activity-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest  # Ação que gera as métricas
         with:
-          token: ${{ secrets.METRICS_TOKEN }} # Segredo necessário para autenticação
-          filename: assets/metrics.plugin.languages.activity.svg # Arquivo de saída gerado
-          base: "" # Layout básico, pode ser ajustado
+          token: ${{ secrets.METRICS_TOKEN }}  # Segredo necessário para autenticação
+          filename: assets/metrics.plugin.languages.activity.svg  # Caminho de saída do arquivo gerado
+          base: ""  # Layout básico (pode ser ajustado)
 
           # Configurações do plugin de atividade de linguagens
-          plugin_languages: yes
+          user: Mathiack  # Seu nome de usuário no GitHub
+          
+          # Linguagens a serem ignoradas no gráfico
           plugin_languages_ignored: >-
             tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot # Linguagens a serem ignoradas
-          plugin_languages_other: yes
-          plugin_languages_sections: most-used # Seções a serem incluídas
-          plugin_languages_details: lines, percentage # Detalhes sobre o uso
-          plugin_languages_limit: 6   # Limite de linguagens a exibir (máximo 8)
-          plugin_languages_analysis_timeout: 15 # Timeout de análise em minutos
+            gnuplot
+          plugin_languages_other: yes  # Inclui linguagens não listadas
+          plugin_languages_sections: most-used  # Seções do gráfico que serão incluídas
+          plugin_languages_details: lines, percentage  # Detalhes que serão mostrados
+          plugin_languages_limit: 6  # Limite de linguagens a exibir (máximo 8)
+          plugin_languages_analysis_timeout: 15  # Timeout de análise (em minutos)
