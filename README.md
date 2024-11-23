@@ -1,4 +1,5 @@
-# My GitHub Metrics
+
+## Nota --> o README abaixo não pertence a mim, estou apenas configurando-o para meu perfil
 
 | Overview | Follow up Issues & PRs |
 |:--------:|:-------------------------:|
