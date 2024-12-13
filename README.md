@@ -12,8 +12,8 @@
 <br>
 ## Status do WakaTime
 
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mathiack/&layout=compact)
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mathiack\&layout=compact)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mathiack)
 <br>
 ## 📂 Repositórios em Destaque:
 
