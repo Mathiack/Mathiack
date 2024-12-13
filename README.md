@@ -26,5 +26,6 @@
 <br>
 ## 📂 Repositórios em Destaque:
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Mathiack&repo=nome-do-repositorio&theme=dark)](https://github.com/Mathiack/nome-do-repositorio)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Mathiack&repo=nome-do-repositorio&theme=dark)](https://github.com/Mathiack/nome-do-repositorio)
+[![Pitssada](https://github-readme-stats.vercel.app/api/pin/?username=Com-KT-NEY-s/&repo=Pitssada&theme=dark)](https://github.com/Com-KT-NEY-s/Pitssada)
+
+[![Hotelhub](https://github-readme-stats.vercel.app/api/pin/?username=Com-KT-NEY-s/&repo=HotelHub&theme=dark)](https://github.com/Com-KT-NEY-s/HotelHub)
