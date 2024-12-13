@@ -1,17 +1,24 @@
 # Olá, eu sou Mathiack! 👋
 
-🎯 **Desenvolvedor focado em Java**
+🎯 Desenvolvedor focado em Java
 
 ### Qualificações
 
-📑 **Certificado do Curso RSTI: Java Back-End**
-<br>
-## 🌟 Minhas Estatísticas no GitHub:
+📑 Certificado do Curso RSTI Java Front-End 2024 pelo Senac RS <br>
+📑 Cursando o Curso RSTI Javascript Back-End 2024 pelo Senac RS <br>
+📑 Cursando o Curso Técnico em Desenvolvimento de Sistemas Full-Stack 2023 pelo Senac RS 
 
+## Minhas Estatísticas
+ <br>
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathiack\&include_all_commits=true&theme=dark&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiack&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <br>
+
 ## Status do WakaTime
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mathiack/&layout=compact)
@@ -20,5 +27,4 @@
 ## 📂 Repositórios em Destaque:
 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Mathiack&repo=nome-do-repositorio&theme=dark)](https://github.com/Mathiack/nome-do-repositorio)
-
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Mathiack&repo=nome-do-repositorio&theme=dark)](https://github.com/Mathiack/nome-do-repositorio)
