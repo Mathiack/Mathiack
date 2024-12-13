@@ -1,8 +1,10 @@
 # Olá, eu sou Mathiack! 👋
 
-🎯 **Desenvolvedor focado em [área de interesse]**  
-💻 **Atualmente trabalhando em [projeto ou área de foco atual]**  
-📚 **Sempre aprendendo algo novo sobre [tecnologia ou tema de interesse]**  
+🎯 **Desenvolvedor focado em Java**
+
+### Qualificações
+
+📑 **Certificado do Curso RSTI: Java Back-End**
 <br>
 ## 🌟 Minhas Estatísticas no GitHub:
 
