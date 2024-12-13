@@ -8,11 +8,11 @@
 
 ## 🌟 Minhas Estatísticas no GitHub:
 
-![Mathiack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathiack&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathiack\&include_all_commits=true&theme=dark&show_icons=true&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiack&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mathiack)](https://github.com/anuraghazra/github-readme-stats)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mathiack\&layout=compact)
 ---
 
 ## 📂 Repositórios em Destaque:
