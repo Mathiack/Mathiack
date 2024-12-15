@@ -1,14 +1,16 @@
-# Olá, eu sou Mathiack! 👋
+# Hello, I'm Mathiack 👋
 
-🎯 Desenvolvedor focado em Java
 
-### Qualificações
+### Qualifications
 
-📑 Certificado do Curso RSTI Java Front-End 2024 pelo Senac RS <br>
-📑 Cursando o Curso RSTI Javascript Back-End 2024 pelo Senac RS <br>
-📑 Cursando o Curso Técnico em Desenvolvimento de Sistemas Full-Stack 2023 pelo Senac RS 
+📑 RSTI Java Front-End 2024 Course Certificate by Senac RS <br>
+📑 Studying the RSTI Javascript Back-End 2024 Course at Senac RS <br>
+📑 Studying the Technical Course in Full-Stack Systems Development 2023 at Senac RS 
 
-## Minhas Estatísticas
+
+🎯 Focused in Java
+
+## My Github Status
  <br>
 <div align="center">
   
@@ -19,12 +21,12 @@
 </div>
 <br>
 
-## Status do WakaTime
+## WakaTime Status
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mathiack/&layout=compact)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mathiack\&layout=compact)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mathiack\&layout=default)
 <br>
-## 📂 Repositórios em Destaque:
+
+## 📂 Nice Repositories
 
 [![Pitssada](https://github-readme-stats.vercel.app/api/pin/?username=Com-KT-NEY-s/&repo=Pitssada&theme=dark)](https://github.com/Com-KT-NEY-s/Pitssada)
 
