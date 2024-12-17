@@ -6,7 +6,7 @@
 📑 RSTI Java Front-End 2024 Course Certificate by Senac RS <br>
 📑 Studying the RSTI Javascript Back-End 2024 Course at Senac RS <br>
 📑 Studying the Technical Course in Full-Stack Systems Development 2023 at Senac RS 
-
+<br>
 
 ## My Github Status
 <br>
@@ -46,6 +46,7 @@
    [![TDS 2023](https://github-readme-stats.vercel.app/api/pin/?username=Mathiack&repo=TDS-2023&theme=dark)](https://github.com/Mathiack/TDS-2023)
    
 </div>
+<br>
 
-## My Youtube Gameplay Channel
+## My Youtube Gameplay Channel▶️
 You can visit my Youtube channel by <a href="https://www.youtube.com/@thunderghost762">clicking here</a>.
