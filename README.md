@@ -46,3 +46,6 @@
    [![TDS 2023](https://github-readme-stats.vercel.app/api/pin/?username=Mathiack&repo=TDS-2023&theme=dark)](https://github.com/Mathiack/TDS-2023)
    
 </div>
+
+## My Youtube Gameplay Channel
+You can visit my Youtube channel by <a href="https://www.youtube.com/@thunderghost762">clicking here</a>.
