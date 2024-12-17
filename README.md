@@ -8,8 +8,6 @@
 📑 Studying the Technical Course in Full-Stack Systems Development 2023 at Senac RS 
 
 
-🎯 Focused in Java
-
 ## My Github Status
 <br>
 
