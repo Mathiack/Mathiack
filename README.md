@@ -38,6 +38,3 @@
    
 </div>
 <br>
-
-## My Youtube Gameplay Channel▶️
-You can visit my Youtube channel by <a href="https://www.youtube.com/@thunderghost762">clicking here</a>.
