@@ -17,7 +17,9 @@
    
    [![Mathiack Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiack&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-   [![My Skills](https://skillicons.dev/icons?i=java,php,html,css,mysql,git,github)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=java,php,html,css,mysql)](https://skillicons.dev)
+   
+   [![My Skills](https://skillicons.dev/icons?i=git,github,windows,vscode)](https://skillicons.dev)
 </div>
 <br>
 
