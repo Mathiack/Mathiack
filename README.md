@@ -13,8 +13,8 @@
 
 <div align="center">
   
-   ![Mathiack Github Stats](https://github-readme-stats.vercel.app/api?username=Mathiack&include_all_commits=true&theme=dark&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-   
+   ![Mathiack Github Stats](https://github-readme-stats.vercel.app/api?username=Mathiack&include_all_commits=true&theme=dark&show_icons=true&rank_icon=github&prs_merged_percentage)
+
    [![Mathiack Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiack&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
    [![My Skills](https://skillicons.dev/icons?i=java,php,html,css,mysql)](https://skillicons.dev)
