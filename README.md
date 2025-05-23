@@ -14,11 +14,13 @@
 <div align="center">
   
    ![Mathiack Github Stats](https://github-readme-stats.vercel.app/api?username=Mathiack&include_all_commits=true&theme=dark&show_icons=true&rank_icon=github&prs_merged_percentage)
-
    [![Mathiack Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiack&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+   
+</div>
+<div align="center">
 
    [![My Skills](https://skillicons.dev/icons?i=java,php,html,css,mysql)](https://skillicons.dev)
-   
+  
    [![My Skills](https://skillicons.dev/icons?i=git,github,windows,vscode)](https://skillicons.dev)
 </div>
 <br>
