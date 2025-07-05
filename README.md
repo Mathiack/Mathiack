@@ -8,12 +8,14 @@
 📑 Studying the Technical Course in Full-Stack Systems Development 2023 at Senac RS <br>
 📑 English Course 4th module Certificate in Ávila Cursos
 
-![LindekIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <br>
 <br>
 <div align="center">
-
+   
+![LindekIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+<br>
+<br>
    [![My Skills](https://skillicons.dev/icons?i=java,php,html,css,mysql)](https://skillicons.dev)
   
    [![My Skills](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)
