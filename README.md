@@ -21,15 +21,7 @@
 
    [![My Skills](https://skillicons.dev/icons?i=java,php,html,css,mysql)](https://skillicons.dev)
   
-   [![My Skills](https://skillicons.dev/icons?i=git,github,windows,vscode)](https://skillicons.dev)
-</div>
-<br>
-
-## WakaTime Status
-<div align="center">
- 
-   ![Mathiack WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mathiack\&layout=default)
-   
+   [![My Skills](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)
 </div>
 <br>
 
@@ -39,6 +31,7 @@
    [![Pitssada](https://github-readme-stats.vercel.app/api/pin/?username=Com-KT-NEY-s&repo=Pitssada&theme=dark)](https://github.com/Com-KT-NEY-s/Pitssada)
    [![Hotelhub](https://github-readme-stats.vercel.app/api/pin/?username=Com-KT-NEY-s&repo=HotelHub&theme=dark)](https://github.com/Com-KT-NEY-s/HotelHub)
    [![TDS 2023](https://github-readme-stats.vercel.app/api/pin/?username=Mathiack&repo=TDS-2023&theme=dark)](https://github.com/Mathiack/TDS-2023)
+   [![Estudex]((https://github-readme-stats.vercel.app/api/pin/?username=Mathiack&repo=Estudex&theme=dark))](https://github.com/Mathiack/estudex)
    
 </div>
 <br>
