@@ -9,8 +9,16 @@
 📑 English Course 4th module Certificate in Ávila Cursos
 
 
+
 <br>
 <br>
+<div align="center">
+   
+![Status](https://github-readme-stats.vercel.app/api?username=Mathiack&include_all_commits=true&theme=dark&show_icons=true&rank_icon=github)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiack&layout=compact&theme=dark&langs_count=10)](https://github.com/Mathiack/github-readme-stats)
+
+</div>
+
 <div align="center">
    
 ![LindekIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
@@ -24,7 +32,7 @@
 
 ## 📂 Nice Repositories
 <div align="center">
- 
+
    [![Pitssada](https://github-readme-stats.vercel.app/api/pin/?username=Com-KT-NEY-s&repo=Pitssada&theme=dark)](https://github.com/Com-KT-NEY-s/Pitssada)
    [![TDS 2023](https://github-readme-stats.vercel.app/api/pin/?username=Mathiack&repo=TDS-2023&theme=dark)](https://github.com/Mathiack/TDS-2023)
    [![HotelHub](https://github-readme-stats.vercel.app/api/pin/?username=Com-KT-NEY-s&repo=HotelHub&theme=dark)](https://github.com/Com-KT-NEY-s/HotelHub)
